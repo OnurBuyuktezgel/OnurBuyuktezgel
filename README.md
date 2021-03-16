@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate full stack developer from Turkey & Germany</h3>
 
-- 🔭  I’m currently working on [SeparEAT](www.separeat.com)
+🔭   I’m currently working on: </br> [SeparEAT](www.separeat.com)
 
-- 🌱  I’m currently learning **Ruby on Rails, JS, React & Redux**
+🌱   I’m currently learning: </br> **Ruby on Rails, JS, React & Redux**
 
-- 📫  How to reach me **obuyuktezgel@gmail.com**
+📫   How to reach me: </br> **obuyuktezgel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
