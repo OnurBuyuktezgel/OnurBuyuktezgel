@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A passionate full stack developer from Turkey & Germany</h3>
+<h1>Hi 👋, I'm Onur</h1>
+<h3>A passionate full stack developer from Turkey & Germany</h3>
 
 🔭   I’m currently working on: </br> [SeparEAT](www.separeat.com)
 
